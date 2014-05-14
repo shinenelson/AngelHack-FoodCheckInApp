@@ -1,0 +1,27 @@
+body{
+	background-image: url("../img/dark-linen-grey-texture-1274492.jpg");
+}
+
+#logo{
+	width: 50%;
+	display: block;
+	margin: 20% 0 2.5% 25%;
+}
+
+#wordmark{
+	width: 90%;
+	display: block;
+	margin-left: 5%;
+}
+
+#kochi{
+	float: right;
+	color: #E2E2E2;
+	font-size: 200%;
+	margin-right: 5%;
+}
+
+#field {
+	margin-top: 10%;
+	margin-left: 12.5%;
+}

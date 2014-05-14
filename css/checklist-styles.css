@@ -1,0 +1,57 @@
+body{
+	background-image: url("../img/dark-linen-grey-texture-1274492.jpg");
+	color: #FFFFFF;
+}
+
+#logo{
+	width: 15%;
+	/*display: inline;*/
+	/*float: right;*/
+	/*margin-top: 1%;*/
+}
+
+#wordmark{
+	width: 35%;
+	/*float: right;*/
+	/*margin: 2% 1% 0 2%;*/
+}
+
+#kochi{
+	float: right;
+	color: #E2E2E2;
+	font-size: 100%;
+}
+
+#ahk {
+	display: inline;
+	float: right;
+	margin-top: -5%;
+}
+
+#date {
+	text-align: center;
+	font-size: 150%;
+	margin-top: 20%;
+
+}
+
+#name {
+	text-align: center;
+	font-size: 200%;
+}
+
+#reg {
+	text-align: center;
+	font-size: 150%;
+}
+
+.food {
+	margin-left: 35%;
+}
+
+#next {
+	float: right;
+	width: 35%;
+	margin-top: 10%;
+	margin-right: 2%;
+}
